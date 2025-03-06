@@ -2,7 +2,7 @@
 
 ## Requirements
 - MATLAB R2021a (or later)
-- SPM12 (if used)
+- SPM12
 - DPABI toolbox
 - Custom scripts from `a_toolbox`
 - Python 3.8+
@@ -15,6 +15,14 @@
 - a_toolbox:
 
 The general toolbox and functions that are widely used in papers of Yujia Ao.
+
+- 25_SSBR
+
+To be updated
+
+- 24_PeakFrequency_NIMG
+
+To be updated
 
 - Master thesis: 
 
@@ -29,7 +37,7 @@ Ao, Y., Yang, C., Drewes, J., Jiang, M., Huang, L., Jing, X., Northoff, G., & Wa
 Ao, Y., Kou, J., Yang, C., Wang, Y., Huang, L., Jing, X., Cui, Q., Cai, X., & Chen, J. (2022). The temporal dedifferentiation of global brain signal fluctuations during human brain ageing. Scientific Reports, 12(1), Article 3616. https://doi.org/10.1038/s41598-022-07578-6
 
 ## Subfolders description
-Each paper's directory contains the following subfolders:
+Each paper's directory contains the following subfolders and files:
 
 main_program: The primary analysis pipeline for the paper.
 
