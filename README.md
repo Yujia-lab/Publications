@@ -16,13 +16,13 @@
 
 The general toolbox and functions that are widely used in papers of Yujia Ao.
 
-- 25_SSBR
+- 25_GradCPT-PLE
 
 To be updated
 
 - 24_PeakFrequency_NIMG
 
-To be updated
+Ao, Y., Catal, Y., Lechner, S., Hua, J., & Northoff, G. (2024). Intrinsic neural timescales relate to the dynamics of infraslow neural waves. Neuroimage, 285, 120482. https://doi.org/10.1016/j.neuroimage.2023.120482 
 
 - Master thesis: 
 
